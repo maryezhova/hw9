@@ -4,7 +4,8 @@
 ![](https://github.com/maryezhova/hw9/blob/master/screenshot1.png)
 ![](https://github.com/maryezhova/hw9/blob/master/screenshot2.png)
 ## Шаг 2
-Использовала регулярное выражение:[А-Я][а-я]*(слав)
+Использовала регулярное выражение: [А-Я][а-я]*(слав)
+
 Всего упоминаний о князьях нашла: 592
 ![](https://github.com/maryezhova/hw9/blob/master/screenshot3.png)
 ## Шаг 3
