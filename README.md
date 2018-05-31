@@ -9,7 +9,7 @@
 Всего упоминаний о князьях нашла: 592
 ![](https://github.com/maryezhova/hw9/blob/master/screenshot3.png)
 ## Шаг 3
-Использовала регулярное выражение:
+Использовала регулярное выражение: Нов(ѣ|ъ|а|у)город(ѣ|ъ|цю|а|ю)?
 
 Всего упоминаний Новгорода нашла: 58
 ![](https://github.com/maryezhova/hw9/blob/master/screenshot4.png)
