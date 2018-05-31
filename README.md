@@ -10,5 +10,6 @@
 ![](https://github.com/maryezhova/hw9/blob/master/screenshot3.png)
 ## Шаг 3
 Использовала регулярное выражение:
-Всего упоминаний Новгорода нашла:
-![](
+
+Всего упоминаний Новгорода нашла: 58
+![](https://github.com/maryezhova/hw9/blob/master/screenshot4.png)
