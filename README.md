@@ -13,3 +13,5 @@
 
 Всего упоминаний Новгорода нашла: 58
 ![](https://github.com/maryezhova/hw9/blob/master/screenshot4.png)
+
+P.S. Задание выполнено в программе Sublime Text.
